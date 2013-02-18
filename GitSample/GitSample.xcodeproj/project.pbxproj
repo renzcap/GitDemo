@@ -18,6 +18,7 @@
 		BC7FB69F16D265B7008B3772 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC7FB69E16D265B7008B3772 /* Default-568h@2x.png */; };
 		BC7FB6A216D265B7008B3772 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC7FB6A016D265B7008B3772 /* MainStoryboard.storyboard */; };
 		BC7FB6A516D265B7008B3772 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC7FB6A416D265B7008B3772 /* ViewController.m */; };
+		BC7FB6AD16D26831008B3772 /* AnotherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC7FB6AC16D26831008B3772 /* AnotherViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		BC7FB6A116D265B7008B3772 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		BC7FB6A316D265B7008B3772 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		BC7FB6A416D265B7008B3772 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		BC7FB6AB16D26831008B3772 /* AnotherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnotherViewController.h; sourceTree = "<group>"; };
+		BC7FB6AC16D26831008B3772 /* AnotherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnotherViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				BC7FB6A016D265B7008B3772 /* MainStoryboard.storyboard */,
 				BC7FB6A316D265B7008B3772 /* ViewController.h */,
 				BC7FB6A416D265B7008B3772 /* ViewController.m */,
+				BC7FB6AB16D26831008B3772 /* AnotherViewController.h */,
+				BC7FB6AC16D26831008B3772 /* AnotherViewController.m */,
 				BC7FB68F16D265B7008B3772 /* Supporting Files */,
 			);
 			path = GitSample;
@@ -176,6 +181,7 @@
 				BC7FB69516D265B7008B3772 /* main.m in Sources */,
 				BC7FB69916D265B7008B3772 /* AppDelegate.m in Sources */,
 				BC7FB6A516D265B7008B3772 /* ViewController.m in Sources */,
+				BC7FB6AD16D26831008B3772 /* AnotherViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
